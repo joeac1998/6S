@@ -1,0 +1,37 @@
+header {
+    background-color: grey;
+    text-align: center;
+}
+
+footer {
+    background-color: #005677;
+    text-align: center;
+}
+
+h1 {
+    background-color: grey;
+    color: #005677;
+    letter-spacing: 10px;
+    text-align: center;
+}
+
+h2 {
+    background-color: grey;
+    color: #005677;
+    letter-spacing: 5px;
+}
+
+
+.parrafo {
+    font-weight: normal;
+}
+
+li {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.negrita {
+    font-weight: bold;
+    color: white;
+}
